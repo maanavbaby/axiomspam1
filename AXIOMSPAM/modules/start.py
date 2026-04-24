@@ -36,7 +36,7 @@ async def start(event):
 
 ┃ ➥ <b>ϻʏ ᴅєᴠєʟσᴘєʀ :</b> 
 ┃ <a href="https://t.me/iii_maa7nav_iii/30">⌯ ϻᴧᴧηᴧᴠ ⌯</a>
-""""
+"""
         await event.client.send_file(
             event.chat_id,
             "https://files.catbox.moe/1yzzii.png",
