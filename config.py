@@ -16,7 +16,7 @@ CMD_HNDLR = getenv("CMD_HNDLR", default=".")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 
-BOT_TOKEN = getenv("BOT_TOKEN", default="8736309668:AAEXZiz8Stu9w2t4GGoIkCibIaq8Nc_5cDI")
+BOT_TOKEN = getenv("BOT_TOKEN", default="8736309668:AAEPijG5aqBSJ6y_7m_Zj0YfKDYweoIe3XQ")
 
 SUDO_USERS = list(map(lambda x: int(x), getenv("SUDO_USERS", default="8466540017").split()))
 for x in AXIOMM:
