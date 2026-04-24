@@ -1,0 +1,5 @@
+build:
+  docker:
+    Maanav: Dockerfile
+run:
+  Maanav: python3 -m main.py
