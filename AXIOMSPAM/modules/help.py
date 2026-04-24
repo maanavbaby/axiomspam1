@@ -4,7 +4,7 @@ from telethon import events, Button
 from config import X1, SUDO_USERS, CMD_HNDLR as hl
 
 
-HELP_STRING = f"<blockquote><b>📗 ᴅɪᴠє ɪηᴛσ ᴧʟʟ ᴄσϻϻᴧηᴅ ᴄᴧᴛєɢσʀɪєs ʙєʟσᴡ </blockquote>\n\n<blockquote>✧ ɢєᴛ ɢυɪᴅᴧηᴄє - ᴧssɪsᴛᴧηᴄє ɪη συʀ <a href='https://t.me/manavkiduniya'>sυᴘᴘσʀᴛ ᴄʜᴧᴛ</a> — ɪ'ϻ ʜєʀє ғσʀ ʏσυ!</b></blockquote>"
+HELP_STRING = f"**📗 ᴅɪᴠє ɪηᴛσ ᴧʟʟ ᴄσϻϻᴧηᴅ ᴄᴧᴛєɢσʀɪєs ʙєʟσᴡ </blockquote>\n\n<blockquote>✧ ɢєᴛ ɢυɪᴅᴧηᴄє - ᴧssɪsᴛᴧηᴄє ɪη συʀ <a href='https://t.me/manavkiduniya'>sυᴘᴘσʀᴛ ᴄʜᴧᴛ</a> — ɪ'ϻ ʜєʀє ғσʀ ʏσυ!**"
 
 HELP_BUTTON = [
     [
