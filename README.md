@@ -13,7 +13,7 @@
 
 <h4 align="center">The Powerful Spambot</h4>
 
-<p align="center"><a href="https://t.me/iii_maa7nav_iii"><img src="https://telegra.ph/file/05522e13c97752efe5e75.png" width="400"></a></p>
+<p align="center"><a href="https://t.me/iii_maa7nav_iii"><img src="https://files.catbox.moe/g0dhsu.png" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using THIS AXIOM SPAM BOT, That is the greatest pleasure we have !
