@@ -41,6 +41,7 @@ async def start(event):
             event.chat_id,
             "https://files.catbox.moe/1yzzii.png",
             caption=TEXT,
+            parse_mode="html",
             has_spoiler=True,
             buttons=START_BUTTON
         )
