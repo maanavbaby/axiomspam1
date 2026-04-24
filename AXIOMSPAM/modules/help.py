@@ -25,7 +25,7 @@ async def help(event):
           await event.client.send_file(event.chat_id,
               "https://files.catbox.moe/1yzzii.png",
               caption=HELP_STRING,
-              has_spoiler=True,
+              spoiler=True,
               parse_mode="html",
               buttons=HELP_BUTTON
               )
