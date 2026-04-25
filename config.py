@@ -12,7 +12,7 @@ logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s'
 # VALUES REQUIRED FOR AXIOMSPAMBOT
 API_ID = 39930006
 API_HASH = "0c1afd87f1a69d0e9a8b06b779480f51"
-CMD_HNDLR = getenv("CMD_HNDLR", default=".")
+CMD_HNDLR = getenv("CMD_HNDLR", default="!")
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", None)
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 
