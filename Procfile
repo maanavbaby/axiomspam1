@@ -1,1 +1,1 @@
-TheMaanav: python -m main.py
+worker: python main.py
